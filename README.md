@@ -7,7 +7,7 @@ Interactive Tableau dashboard showing gospel reach reach around the world using 
 
 - World map highlighting least reached people groups
 - Bar chart of top countries needing workers
-- Analysis of gospel penetration
+- View of gospel penetration
 - Country-level filters
 - Color-coded continent categorization
 
