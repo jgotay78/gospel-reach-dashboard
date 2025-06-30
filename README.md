@@ -1,9 +1,7 @@
-# gospel-reach-dashboard
-Interactive Tableau dashboard showing gospel reach and workers needed across the globe.
+
 
 # Gospel Reach Dashboard
-
-This Tableau Public dashboard visualizes the current state of gospel reach around the world using live-updating data from Joshua Project.
+Interactive Tableau dashboard showing gospel reach reach around the world using live-updating data from Joshua Project and workers needed across the globe.
 
 # Features
 
